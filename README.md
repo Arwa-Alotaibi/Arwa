@@ -1,4 +1,4 @@
-![Hello](https://user-images.githubusercontent.com/88631496/221388584-689ba893-7bad-4bf4-a66f-e8daa0e3bad3.png=x250) 
+![Hello](https://user-images.githubusercontent.com/88631496/221388584-689ba893-7bad-4bf4-a66f-e8daa0e3bad3.png){: height=36 width=36}
 # Hi, I'm Arwa Alotaibi 👋
 
 My major is in information technology from PNU. I am passionate for learning programming languages and developing web applications.
